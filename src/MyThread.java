@@ -33,5 +33,7 @@ public class MyThread implements Runnable {
         System.out.println("Main Thread Started");
         System.out.println("Main Thread Terminated");
         System.out.println("Trying this again just to make sure I am confident");
+
+        //Will continue multithreading tomorrow
     }
 }
